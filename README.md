@@ -1,5 +1,5 @@
 Yazılımcılar=
-KaanIrfanoglu
+Kaan İrfanoglu
 Mehmet Akif Kayaoğlu
 Ferit Berkay Kabil
 
